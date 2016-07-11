@@ -5895,6 +5895,9 @@
         - PAGE: Ciddor
           name: "Ciddor 1996: n 0.23-1.690 µm"
           path: "other/mixed gases/air/Ciddor.yml"
+        - PAGE: Ciddor
+          name: "Ciddor (extended) 1996: n 0.23-1.690 µm"
+          path: "other/mixed gases/air/Skylark.yml"
     - DIVIDER: "Commercial plastics"
     - BOOK: CR-39
       name: "CR-39"
